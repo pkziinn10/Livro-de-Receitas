@@ -1,4 +1,4 @@
-namespace MyRecipeBook.Communicatio.Request;
+namespace MyRecipeBook.Communication.Request;
 
 public class RequestRegisterUserJson
 {
